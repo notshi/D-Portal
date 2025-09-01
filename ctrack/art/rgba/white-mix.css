@@ -1,0 +1,11 @@
+/* This css is used in white and classic with new headers */
+
+/* hide text boxes at bottom of page */
+.description_splash { display:none; }
+.description_wrap { display:none; }
+.data_wrap { display:none; }
+a.about_data { display:none; }
+.crumb_wrap { display:none; }
+
+.overlay				{padding-bottom:80px;}
+.footer_copyright		{width:45%; line-height:1.25em; text-align:center;}

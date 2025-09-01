@@ -37,14 +37,17 @@ Directory Structure
 ===================
 
 [/dstore](https://github.com/notshi/D-Portal/tree/master/dstore) contains server side javascript for xml manipulation and 
-parsing of iati data.  See the README in that directory for more information. This is needed to run the Q queries on your own host.
+parsing of iati data.  
+See the README in that directory for more information. This is needed to run the Q queries on your own host.
 
-[/dstore/csv](https://github.com/notshi/D-Portal/tree/master/dstore/csv) contains public spreadsheets (csv) including CRS data that is manually provided and updated yearly. See the README in that directory for more information.
+[/dstore/csv](https://github.com/notshi/D-Portal/tree/master/dstore/csv) contains public spreadsheets (csv) including CRS data that is manually provided and updated yearly.  
+See the README in that directory for more information.
 
-[/ctrack](https://github.com/notshi/D-Portal/tree/master/ctrack) contains client side javascript and css for displaying information direct from the datastore in browser. See the README in that directory for more information. This is needed to build and deploy a customized d-portal browser tool.
+[/ctrack](https://github.com/notshi/D-Portal/tree/master/ctrack) contains client side javascript and css for displaying information direct from the datastore in browser.  
+See the README in that directory for more information. This is needed to build and deploy a customized d-portal browser tool.
 
 [/dportal](https://github.com/notshi/D-Portal/tree/master/dportal) contains javascript that builds the static information and 
-example site you will find deployed at http://d-portal.org/ 
+example site.
 
 [/bin](https://github.com/notshi/D-Portal/tree/master/bin) contains helper scripts.
 
@@ -56,5 +59,3 @@ Database Logs
 ===================
 
 We are tracking the nightly imports of IATI data being published to d-portal.org [here](https://github.com/xriss/D-Portal-Logs).
-
-Service status on [Uptime Robot](https://stats.uptimerobot.com/8MWyWsgj7).
